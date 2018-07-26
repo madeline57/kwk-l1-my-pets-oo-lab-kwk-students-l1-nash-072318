@@ -12,4 +12,4 @@ end
 end
 
 crookshanks = Cat.new("crookshanks")
-crookshanks.mood = "nervous"
+crookshanks.mood="nervous"
