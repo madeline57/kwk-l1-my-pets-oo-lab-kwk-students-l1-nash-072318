@@ -9,6 +9,10 @@ end
 def name 
 @name 
 end 
+def mood 
+  @mood
+end 
+
 end
 
 crookshanks = Cat.new("crookshanks")
