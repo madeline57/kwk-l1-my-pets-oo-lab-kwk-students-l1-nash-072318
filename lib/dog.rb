@@ -13,4 +13,4 @@ def mood
   @mood
 end 
 end
- 
+ daisy = Dogs.new("daisy")
