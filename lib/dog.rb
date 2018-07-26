@@ -13,4 +13,4 @@ end
   #@mood
 #end 
 end
- daisy = Dogs.new("daisy")
+ daisy = Dog.new("daisy")
